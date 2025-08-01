@@ -1,11 +1,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/abs-hasan/AtmoFlow/ci.yml?branch=main&logo=github)](https://github.com/abs-hasan/AtmoFlow/actions)
+[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/abs-hasan/automated-weather-data-pipeline/ci.yml?branch=main&logo=github)](https://github.com/abs-hasan/automated-weather-data-pipeline/actions)
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/release/python-3110/)
 [![Orchestrated by Airflow](https://img.shields.io/badge/Orchestrated_by-Airflow-blue?logo=apache-airflow&logoColor=white)](https://airflow.apache.org/)
 [![Built with Docker](https://img.shields.io/badge/Built_with-Docker-blue?logo=docker&logoColor=white)](https://www.docker.com/)
 
 
-![Repo Size](https://img.shields.io/github/repo-size/abs-hasan/automated-weather-data-pipeline)
+
 ![Last Commit](https://img.shields.io/github/last-commit/abs-hasan/automated-weather-data-pipeline)
 ![Docker](https://img.shields.io/badge/built%20with-Docker-blue?logo=docker)
 ![Python](https://img.shields.io/badge/python-3.11-blue.svg)
