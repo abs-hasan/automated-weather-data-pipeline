@@ -5,6 +5,13 @@
 [![Built with Docker](https://img.shields.io/badge/Built_with-Docker-blue?logo=docker&logoColor=white)](https://www.docker.com/)
 
 
+![Repo Size](https://img.shields.io/github/repo-size/abs-hasan/automated-weather-data-pipeline)
+![Last Commit](https://img.shields.io/github/last-commit/abs-hasan/automated-weather-data-pipeline)
+![Docker](https://img.shields.io/badge/built%20with-Docker-blue?logo=docker)
+![Python](https://img.shields.io/badge/python-3.11-blue.svg)
+![Airflow](https://img.shields.io/badge/apache%20airflow-2.10.4-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 
 # 🌦️ Automated Weather Data Pipeline
 
