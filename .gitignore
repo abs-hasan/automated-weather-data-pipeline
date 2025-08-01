@@ -1,0 +1,56 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.python-version
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Airflow logs and database
+logs/
+*.log
+airflow.db
+*.sqlite
+*scripts
+
+# Local environment files
+.env
+.env.*
+
+# Docker
+*.pid
+*.seed
+*.bak
+*.swp
+*.tmp
+
+# VS Code
+.vscode/
+
+# Python virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# macOS
+.DS_Store
+
+# Postgres volume (optional if using bind mount)
+pgdata/
+
+# Output files
+*.csv
+*.parquet
+*.json
+
+# Cache and build artifacts
+*.egg-info/
+build/
+dist/
+
+# Airflow DAG compiled files (if any)
+dags/__pycache__/
+plugins/__pycache__/
+utils/__pycache__/
