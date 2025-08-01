@@ -9,7 +9,7 @@
 ![Docker](https://img.shields.io/badge/Built%20with-Docker-blue?logo=docker)
 ![Python](https://img.shields.io/badge/python-3.11-blue.svg)
 ![Airflow](https://img.shields.io/badge/apache%20airflow-2.10.4-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
+
 
 
 # 🌦️ Automated Weather Data Pipeline
